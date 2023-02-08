@@ -1,12 +1,5 @@
 {
   "dependencies": {
-    "com.brightlib.rpgdatabase": {
-      "version": "https://github.com/carreraSilvio/RPGDatabase.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "5acbf5445f703915fe11520349c5a9ae629b87ec"
-    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,

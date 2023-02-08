@@ -8,6 +8,7 @@ TagManager:
   - Paopa
   - damageManager
   - Enemy
+  - Message
   layers:
   - Default
   - TransparentFX
@@ -15,9 +16,9 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ruhe
+  - Lua
+  - Stairs
   - 
   - 
   - 

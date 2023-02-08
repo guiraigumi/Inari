@@ -50,6 +50,14 @@ public class Dialogue : MonoBehaviour
                 dialogueText.text = dialogueLines[lineIndex];
             }
             
+            /*else if(transform.gameObject.layer == 10)
+            {
+
+            }
+            else if(transform.gameObject.layer == 10)
+            {
+                
+            }*/
         }
         
     }
